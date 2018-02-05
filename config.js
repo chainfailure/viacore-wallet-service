@@ -38,7 +38,7 @@ var config = {
     },
   },
   blockchainExplorerOpts: {
-    btc: {
+    via: {
       livenet: {
         provider: 'insight',
         url: 'https://explorer.viacoin.org:443',
